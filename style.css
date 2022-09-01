@@ -1,35 +1,19 @@
-.site-header{
-    border-bottom: 1px solid green;
-    padding: 2px 5px;
-    display: flex;
-    justify-content: space-between;
-    background-color: transparent;
-}
-.site-identity{
-    font-size: 5px;
-    margin: 2px;
-    display: inline-block;
-}
-site-navigation ul, 
-.site-navigation li {
-    margin: 0;
-    padding: 0;
-}
-.site-navigation li{
-    display: inline-block;
-    margin: 30px;
-}
-a{
-    text-decoration: none;
-    color: brown;
-}
-a:hover{
-    color: blue;
-}
+
 h1{
     text-align: center;
 }
-button{
-    margin: 10px 500px 10px 1000px;
+.button{
+    margin: 30px 200px 10px 500px;
 }
-
+.banner-image{
+    margin: 20px 100px 10px 280px;
+}
+.background{
+    background-image: url(images/hero-bg.png);
+}
+.background-color{
+    background-color: blue;
+}
+h3, p{
+    color: white;
+}
