@@ -14,3 +14,6 @@ h1{
 .background-color{
     background-color: blue;
 }
+nav li :hover{
+    color: aqua;
+}
