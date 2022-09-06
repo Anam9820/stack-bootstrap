@@ -12,8 +12,8 @@ h1{
     background-image: url(images/hero-bg.png);
 }
 .background-color{
-    background-color: blue;
+    background-color: rgb(51, 51, 224);
 }
-nav li :hover{
-    color: aqua;
+.nav ul li a :hover{
+    background-color: blue;
 }
