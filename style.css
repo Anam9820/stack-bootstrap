@@ -44,6 +44,10 @@ h1{
 .background-color{
     background-color: rgb(51, 51, 224);
 }
-
+@media only screen and (min-width:600px){
+    .banner-image{
+        margin: 10px 50px 10px 50px;
+    }
+}
     
 
