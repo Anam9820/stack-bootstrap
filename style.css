@@ -1,9 +1,8 @@
-.top{
-    display: flex;
-    justify-content: space-between;
-    background-color: white;
+
+ #link ul li a:hover{
+    color: blue;
 }
-    
+   
 .logo-img{
     margin-top: 20px;
     margin-left: 50px;
@@ -25,18 +24,17 @@
     color: black;
     text-decoration: none;
 }
-.navbar ul li a:hover{
+.navlink :hover{
     color: blue;
 }
-
 h1{
     text-align: center;
 }
 .button{
-    margin: 30px 200px 10px 500px;
+    margin: 10px 590px;
 }
 .banner-image{
-    margin: 20px 100px 10px 280px;
+    margin: 10px 370px;
 }
 .background{
     background-image: url(images/hero-bg.png);
@@ -44,10 +42,7 @@ h1{
 .background-color{
     background-color: rgb(51, 51, 224);
 }
-@media only screen and (min-width:600px){
-    .banner-image{
-        margin: 10px 50px 10px 50px;
-    }
+@media (max-width:767px){
+
 }
-    
 
